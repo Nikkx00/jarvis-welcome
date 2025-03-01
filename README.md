@@ -6,7 +6,7 @@
 apt update
 apt install git -y
 pkg install mpv -y
-git clone https://https://github.com/Nikkx00/jarvis-welcome.git
+git clone https://github.com/Nikkx00/jarvis-welcome.git
 cd jarvis-welcome
 chmod +x *
 sh install.sh
